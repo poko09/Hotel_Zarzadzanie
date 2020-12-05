@@ -31,7 +31,7 @@ namespace ProjektHotel
             //ja tez Agata
             Console.WriteLine(rezerwacja1.ToString());
             Console.WriteLine(rezerwacja2.ToString());
-           
+            Console.WriteLine("Kocham Iwonkę");
 
 
         }

@@ -27,6 +27,7 @@ namespace ProjektHotel
             Rezerwacja rezerwacja2 = new Rezerwacja(new DateTime(2020, 12, 4), new DateTime(2020, 12, 10), apartament1, klient2, Rezerwacja.FormaPłatności.Karta);
             //Rezerwacja rezerwacja3 = new Rezerwacja();
             // tu se dopisałam 
+            // ja tez
             Console.WriteLine(rezerwacja1.ToString());
             Console.WriteLine(rezerwacja2.ToString());
            

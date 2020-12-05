@@ -35,3 +35,8 @@ C:\Users\Dell\Desktop\STUDIA\3 semestr\PO\ProjektHotelWiola\obj\Debug\netcoreapp
 C:\Users\Dell\Desktop\STUDIA\3 semestr\PO\ProjektHotelWiola\obj\Debug\netcoreapp3.1\ProjektHotel.AssemblyInfo.cs
 C:\Users\Dell\Desktop\STUDIA\3 semestr\PO\ProjektHotelWiola\obj\Debug\netcoreapp3.1\ProjektHotel.dll
 C:\Users\Dell\Desktop\STUDIA\3 semestr\PO\ProjektHotelWiola\obj\Debug\netcoreapp3.1\ProjektHotel.pdb
+C:\Source\Repos\Hotel_Zarzadzanie\ProjektHotelWiola\obj\Debug\netcoreapp3.1\ProjektHotel.csprojAssemblyReference.cache
+C:\Source\Repos\Hotel_Zarzadzanie\ProjektHotelWiola\obj\Debug\netcoreapp3.1\ProjektHotel.AssemblyInfoInputs.cache
+C:\Source\Repos\Hotel_Zarzadzanie\ProjektHotelWiola\obj\Debug\netcoreapp3.1\ProjektHotel.AssemblyInfo.cs
+C:\Source\Repos\Hotel_Zarzadzanie\ProjektHotelWiola\obj\Debug\netcoreapp3.1\ProjektHotel.dll
+C:\Source\Repos\Hotel_Zarzadzanie\ProjektHotelWiola\obj\Debug\netcoreapp3.1\ProjektHotel.pdb

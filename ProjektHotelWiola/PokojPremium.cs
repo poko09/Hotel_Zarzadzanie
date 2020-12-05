@@ -17,5 +17,6 @@ namespace ProjektHotel
         {
             return base.ToString() + ", Typ pokoju: " + "Premium" + ", Cena za dobę: " + this.cena;
         }
+        
     }
 }
